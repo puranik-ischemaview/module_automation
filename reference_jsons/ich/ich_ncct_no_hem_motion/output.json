@@ -1,0 +1,456 @@
+{
+    "DICOMHeaderInfo": {
+        "NCCTSeries": {
+            "AccessionNumber": "2017R0093561-1",
+            "AcquisitionDate": "20170612",
+            "AcquisitionTime": "013509.701000",
+            "CTDIvol": 63.818,
+            "Columns": 512,
+            "FrameOfReferenceUID": "1.3.12.2.1107.5.1.4.73615.30000017061022434081500000327",
+            "InstitutionName": "",
+            "IntersliceDistanceList": [
+                5.076003563275858,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275846,
+                5.076003563275877,
+                5.076003563275858,
+                5.076003563275846,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275877,
+                5.076003563275851,
+                5.076003563275851,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275877,
+                5.076003563275846,
+                5.076003563275858,
+                5.0760035632758544,
+                5.076003563275868,
+                5.0760035632758544,
+                5.076003563275868,
+                5.076003563275858,
+                5.0760035632758544,
+                5.076003563275868,
+                5.076003563275868,
+                5.0760035632758544,
+                5.076003563275846,
+                5.0760035632758544,
+                5.076003563275881,
+                5.076003563275846
+            ],
+            "IntersliceDistanceListAfterMerge": [
+                5.076003563275858,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275846,
+                5.076003563275877,
+                5.076003563275858,
+                5.076003563275846,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275877,
+                5.076003563275851,
+                5.076003563275851,
+                5.076003563275863,
+                5.076003563275858,
+                5.076003563275877,
+                5.076003563275846,
+                5.076003563275858,
+                5.0760035632758544,
+                5.076003563275868,
+                5.0760035632758544,
+                5.076003563275868,
+                5.076003563275858,
+                5.0760035632758544,
+                5.076003563275868,
+                5.076003563275868,
+                5.0760035632758544,
+                5.076003563275846,
+                5.0760035632758544,
+                5.076003563275881,
+                5.076003563275846
+            ],
+            "KVP": 120.0,
+            "KVPList": [
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0,
+                120.0
+            ],
+            "Manufacturer": "SIEMENS",
+            "ManufacturerModelName": "SOMATOM Definition Flash",
+            "Modality": "CT",
+            "NumberOfSlices": 33,
+            "NumberOfSlicesAfterMerging": 33,
+            "PatientOrientation": "",
+            "PatientPosition": "HFS",
+            "PixelSpacing": [
+                0.488281,
+                0.488281
+            ],
+            "ReconstructionDiameter": 191.0,
+            "RescaleIntercept": -1024.0,
+            "RescaleSlope": 1.0,
+            "Rows": 512,
+            "SeriesDate": "20170612",
+            "SeriesDescription": "Exported NCCT Series Normal With Real Motion",
+            "SeriesInstanceUID": "1.3.6.1.4.1.39822.7559680085900426841997007966595263149969906042",
+            "SeriesNumber": 12,
+            "SeriesTime": "020513.082000",
+            "SliceThickness": 5.076,
+            "SliceThicknessList": [
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076
+            ],
+            "SliceThicknessListAfterMerge": [
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076,
+                5.076
+            ],
+            "SoftwareVersions": "syngo CT VA48A",
+            "StationName": "",
+            "StudyDate": "20170612",
+            "StudyDescription": "Exported NCCT Study",
+            "StudyID": "118CT1",
+            "StudyInstanceUID": "1.3.6.1.4.1.39822.1214024627229021858498669909034352847820862651",
+            "StudyTime": "013018",
+            "XRayTubeCurrent": 374.0
+        },
+        "Patient": {
+            "PatientAge": "",
+            "PatientBirthDate": "",
+            "PatientID": "54220952",
+            "PatientName": "ich_ncct^no_hem_motion",
+            "PatientSex": ""
+        }
+    },
+    "DICOMTemplateFilename": "/test_data/test_cases/ich_cases/cases/ich_ncct_no_hem_motion/IM-0001-0001.dcm",
+    "GitVersion": "0+unknown",
+    "ICHParameters": {
+        "AllowParenchymaMasking": true,
+        "ForResearchPurposesImageText": "For research purposes only.",
+        "ICH3MLModelFilename": "/test_data/rapid_builds/ich_builds/ich3.0/product/hemorrhage_app/resources/model_weights_ich3B.h5",
+        "ICHMinROIVolumeThreshold": 0.4,
+        "ICHNegativeImageText": "ICH processed",
+        "ICHPositiveImageText": "ICH suspected",
+        "ICHProbabilityThreshold": 0.68,
+        "ICHSmallObjectRemovalThreshold": 0.2,
+        "InputKVPAllowed": [
+            100.0,
+            140.0
+        ],
+        "InputSliceThicknessAllowed": [
+            0.495,
+            6.3
+        ],
+        "InputVolumePixelSizeRatioAllowed": [
+            0.8,
+            1.2
+        ],
+        "InputVolumePixelSpacingAllowed": [
+            0.25,
+            0.67
+        ],
+        "InputVolumeXFOVAllowed": [
+            140.0,
+            340.0
+        ],
+        "InputVolumeXSizeAllowed": [
+            400,
+            750
+        ],
+        "InputVolumeYFOVAllowed": [
+            140.0,
+            340.0
+        ],
+        "InputVolumeYSizeAllowed": [
+            400,
+            750
+        ],
+        "InputVolumeZFOVAllowed": [
+            9.0,
+            340.0
+        ],
+        "MaxNumICHPositiveSlices": 4,
+        "MergeSlicesBelowMM": 2.99,
+        "NotForPrimaryDiagnosisImageText": "Not for primary diagnosis.",
+        "NumberSlicesAllowed": [
+            3,
+            400
+        ],
+        "OutputSeriesNumberMultiplier": 100,
+        "OutputSeriesNumberOffset": 1,
+        "OutputWindowLevel": 40,
+        "OutputWindowWidth": 80,
+        "ResearchMode": false,
+        "StationName": ""
+    },
+    "Measurements": {
+        "HemorrhageDetected": false,
+        "HemorrhageVolume": 0.27108755918996263
+    },
+    "ModuleName": "ICH",
+    "NCCTArtifacts": {
+        "NCCTArtifactsJSONFilename": "/test_data/working_dir/ich3.0/results_motion_detector/ich_ncct_no_hem_motion/artifact_output.json",
+        "Results": {
+            "MotionArtifacts": {
+                "ArtifactBinaryDecision": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "ArtifactLikelihood": [
+                    0.974,
+                    0.997,
+                    0.999,
+                    0.994,
+                    0.999,
+                    0.999,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.953,
+                    0.985,
+                    0.806,
+                    1.0,
+                    1.0,
+                    0.998,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.017,
+                    0.504,
+                    0.642,
+                    0.001,
+                    0.012,
+                    0.005,
+                    0.296,
+                    0.021,
+                    0.005,
+                    0.016,
+                    0.015,
+                    0.001,
+                    0.001,
+                    0.001,
+                    0.001
+                ],
+                "ArtifactLikelihoodThreshold": 0.946,
+                "ArtifactsDetected": true,
+                "NumberOfSlicesAffected": 17,
+                "PercentageOfSlicesAffected": 51.52,
+                "ReferenceSlice": 7
+            }
+        }
+    },
+    "ProcessingBegin": "2023/03/29 13:13:35",
+    "ProcessingEnd": "2023/03/29 13:14:08",
+    "ProcessingTimeInSeconds": 32.425737142562866,
+    "ProgramVersion": "3.0",
+    "Results": {
+        "Hemorrhage": {
+            "HemorrhageDetected": false,
+            "HemorrhageVolume": 0.27108755918996263,
+            "RawInputDataDimensions_xyz": [
+                512,
+                512,
+                33
+            ],
+            "ReferenceSlice": 16,
+            "ReferenceSliceInProcessedData": 16,
+            "ReferenceSliceInRawInputData": 16
+        },
+        "ICHSuspected": false,
+        "RawInputDataFilename": "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/rawInput.mhd",
+        "ReferenceSlice": 16,
+        "ReferenceSliceInProcessedData": 16,
+        "ReferenceSliceInRawData": 16
+    },
+    "ReturnCode": 0,
+    "ReturnCodeDescription": "No error",
+    "SummaryOutputDICOM": {
+        "Instances": [
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.dcm",
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.dcm"
+        ],
+        "Views": [
+            {
+                "Description": "ICH processed",
+                "Filenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.dcm"
+                ]
+            },
+            {
+                "Description": "Overview of all slices",
+                "Filenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.dcm"
+                ]
+            }
+        ]
+    },
+    "SummaryOutputImages": {
+        "CompressedImages": [
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.jpg",
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.jpg"
+        ],
+        "Images": [
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.png",
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.png"
+        ],
+        "ThumbnailImages": [
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.th.jpg",
+            "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.th.jpg"
+        ],
+        "Views": [
+            {
+                "CompressedFilenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.jpg"
+                ],
+                "Description": "ICH processed",
+                "Filenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.png"
+                ],
+                "ThumbnailFilenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/summaryImage.th.jpg"
+                ]
+            },
+            {
+                "CompressedFilenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.jpg"
+                ],
+                "Description": "Overview of all slices",
+                "Filenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.png"
+                ],
+                "ThumbnailFilenames": [
+                    "/test_data/working_dir/ich3.0/results_ich_3/ich_ncct_no_hem_motion/results/overviewImage.th.jpg"
+                ]
+            }
+        ]
+    }
+}

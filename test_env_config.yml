@@ -1,0 +1,13 @@
+---
+environment:
+  dummy_prop: example_value
+test_data:
+  base: /test_data
+  input_files: /test_cases
+  working_dir: /working_dir
+  ich:
+    input_files: /ich_cases/cases
+    ich_working_dir: /ich3.0
+    file_lists: /file_lists
+    results: /results_ich_3
+    motion_detector_results: /results_motion_detector
