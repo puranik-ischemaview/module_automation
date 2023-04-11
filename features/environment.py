@@ -16,6 +16,26 @@ import os
 
 def before_all(context):
     print("Executing before all")
+    cmd = 'wget wget https://www.dropbox.com/s/gh7fgzp99ujo2u1/dcm_compare.zip'
+    os.system(cmd)
+    cmd = 'unzip dcm_compare.zip'
+    os.system(cmd)
+    cmd = 'cp dcm_compare/dcmicmp .'
+    os.system(cmd)
+
+    cmd = 'wget https://www.dropbox.com/s/6jfd64gyx7trau3/reference_images.zip'
+    os.system(cmd)
+    cmd = 'unzip reference_images.zip'
+    os.system(cmd)
+
+    cmd = 'rm -rf dcm_compare'
+    os.system(cmd)
+
+    cmd = 'rm -rf dcm_compare.zip'
+    os.system(cmd)
+
+    cmd = 'rm -rf reference_images.zip'
+    os.system(cmd)
 
 
 def before_feature(context, feature):
