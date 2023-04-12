@@ -16,7 +16,8 @@ def set_working_dir(context, module_name):
 
 @given(u'script path is set for "{module_name}"')
 def set_script_path(context, module_name):
-    os.environ["SCRIPT_PATH"] = '/test_data/scripts/ich_scripts/ich_test/test/'
+    # os.environ["SCRIPT_PATH"] = '/test_data/scripts/ich_scripts/ich_test/test/'
+    os.environ["SCRIPT_PATH"] = os.environ["ROOT_DIR"] + '/standalone_module_scripts/ich/'
 
 
 @given(u'the file list for "{dir_name}" is generated')
