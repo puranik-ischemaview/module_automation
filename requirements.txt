@@ -1,6 +1,5 @@
 behave
 pyyaml
-pytest==7.2.1
 flatten_json
 deepdiff
 behavex
